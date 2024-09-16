@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BdayBuddy", "BdayBuddy\BdayBuddy.csproj", "{41C844E8-45F2-4DE6-9BC6-C92520A8B667}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "BdayBuddySetup", "BdayBuddySetup\BdayBuddySetup.vdproj", "{329873A5-3B04-4219-AF31-105DC6F7C7E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41C844E8-45F2-4DE6-9BC6-C92520A8B667}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41C844E8-45F2-4DE6-9BC6-C92520A8B667}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41C844E8-45F2-4DE6-9BC6-C92520A8B667}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41C844E8-45F2-4DE6-9BC6-C92520A8B667}.Release|Any CPU.Build.0 = Release|Any CPU
+		{329873A5-3B04-4219-AF31-105DC6F7C7E9}.Debug|Any CPU.ActiveCfg = Debug
+		{329873A5-3B04-4219-AF31-105DC6F7C7E9}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0B1A2E0-7FEC-4B4A-8B52-C0B17DA07613}
+	EndGlobalSection
+EndGlobal
